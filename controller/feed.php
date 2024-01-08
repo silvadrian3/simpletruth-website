@@ -5,7 +5,7 @@ $manager = new manager();
 
 //img location
 $curr_loc = "../admin/img/data/";
-//$curr_loc = "http://admin.simpletruth.ph/img/data/";
+//$curr_loc = "https://admin.simpletruth.ph/img/data/";
 
 //basic components
 $company_name = "";
